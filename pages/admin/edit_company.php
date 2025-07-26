@@ -1,7 +1,7 @@
 <?php
 include '../../php/connection.php';
 
-$sql = "SELECT * FROM `company`";
+$sql = "SELECT * FROM `company` where=";
 $company_res = mysqli_query($conn, $sql);
 
 ?>
@@ -33,10 +33,13 @@ $company_res = mysqli_query($conn, $sql);
 		<br>
 		<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			<div>
-				<a href="company_list.php" class="nav-link active">Companies list</a><br>
+				<a href="company_reg_form.php" class="nav-link">Company Registration Form</a><br>
 			</div>
 			<div>
 				<a href="vacancy_reg_form.php" class="nav-link">Vacancy Registration Form</a><br>
+			</div>
+			<div>
+				<a href="company_list.php" class="nav-link active">Companies list</a><br>
 			</div>
 		</div>
 	</div>
