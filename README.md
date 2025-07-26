@@ -44,8 +44,8 @@ Open http://localhost/TPC-System/index.html
 
 👨‍💻 Developer
 Grina Nakrani|
-📧 grinanakrani37@gmail.com|
-🎓 L.D. College of Engineering, Computer Engineering Dept.|
+📧 grinanakrani37@gmail.com |
+🎓 L.D. College of Engineering, Computer Engineering Dept. |
 🌐 GitHub: @GrinaNakrani
 
 📚 License
