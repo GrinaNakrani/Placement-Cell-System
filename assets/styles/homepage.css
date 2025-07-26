@@ -1,0 +1,55 @@
+body {
+	background: linear-gradient(135deg, #71b7e6, #9b59b6);
+	font-family: calibri;
+}
+
+.flex-container 
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.logo-container {
+	display: flex !important;
+	flex-direction: row;
+	justify-content: center;
+}
+.top 
+{
+background:linear-gradient(135deg,#E0115F,#4B0082);
+height:15%;
+width:85%;
+font-size: 25px;
+margin-left: 13%;
+}
+.top p
+{
+	padding-top: 20px;
+}
+.left
+{
+background:linear-gradient(135deg,#E0115F,#4B0082);
+height:100%;
+width:15%;
+float:left; 
+}
+.right
+{
+background:linear-gradient(135deg,#71b7e6,#9b59b6);
+height:85%;
+width:87%;
+float:right;
+}
+
+.left a:link {
+	font-size: 13px;
+	margin-left: 0px;
+	text-decoration:none;
+}
+
+.left a
+{
+	color : white;
+	font-size: 15px;
+}
+

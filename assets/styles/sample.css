@@ -1,0 +1,19 @@
+.page-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    background-color: #2196F3;
+    /* grid-row: 1 / span 3; */
+}
+
+.side_bar {
+    grid-row: 1 / span 3;
+}
+
+.main_content {
+    grid-row: 2 / 3;
+    grid-column: 2 / span 2;
+}
+
+.footer {
+    grid-column: 1 / span 3;
+}
