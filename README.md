@@ -43,10 +43,10 @@ To **digitize** and **streamline** the end-to-end training and placement process
 Open http://localhost/TPC-System/index.html
 
 👨‍💻 Developer
-Grina Nakrani
-📧 grinanakrani37@gmail.com
-🎓 L.D. College of Engineering, Computer Engineering Dept.
-🌐 GitHub: @yourusername
+Grina Nakrani|
+📧 grinanakrani37@gmail.com|
+🎓 L.D. College of Engineering, Computer Engineering Dept.|
+🌐 GitHub: @GrinaNakrani
 
 📚 License
 This project is developed for academic use.
